@@ -5,10 +5,12 @@ Advantages of this package：
 
 1、The advantages of this kit contain all the resources of arduino UNO R3 motherboard, which is very suitable for beginners：
 
-     analog input and output、digital input and  output、external interruption、PWM output、I2C communication、3-wire interface、SPI communication、timer
+     analog input and output\digital input and  output\external interruption
+	 \PWM output\I2C communication\3-wire interface\SPI communication\timer
 
 2、included experiments
-     light、voice、gas、display、motor drive、data、time、temperature、humidity、memory、wireless interfared control、IO extension
+     light\voice\gas\display\motor drive\data\time\temperature
+	 \humidity\memory\wireless interfared control\IO extension
 
 3、Rich in courses and materials
 
