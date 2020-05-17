@@ -8,11 +8,12 @@ Advantages of this package：
      analog input and output\digital input and  output\external interruption
 	 \PWM output\I2C communication\3-wire interface\SPI communication\timer
 
-2、included experiments
+2、included experiments：
+
      light\voice\gas\display\motor drive\data\time\temperature
 	 \humidity\memory\wireless interfared control\IO extension
 
-3、Rich in courses and materials
+3、Rich in courses and materials：
 
      lesson 1：LK COKOINO V-1 Board for Arduino（Compatible with arduino UNO R3）
      lesson 2：Breadboard power module and breadboard
