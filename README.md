@@ -1,7 +1,11 @@
 # CKK0004
  arduino starter base kit
+# Download
+- Click the "Clone" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
 
-Advantages of this package：
+![](https://github.com/Cokoino/CKK0004/raw/master/download.png)
+
+# Advantages of this package：
 
 1、The advantages of this kit contain all the resources of arduino UNO R3 motherboard, which is very suitable for beginners：
 
