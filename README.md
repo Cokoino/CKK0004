@@ -5,6 +5,9 @@
 
 ![](https://github.com/Cokoino/CKK0004/raw/master/download.png)
 
+# Technical support
+- Email: jex-spt@outlook.com
+
 # Advantages of this package：
 
 1、The advantages of this kit contain all the resources of arduino UNO R3 motherboard, which is very suitable for beginners：
