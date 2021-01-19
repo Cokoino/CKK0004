@@ -6,7 +6,7 @@
 ![](https://github.com/Cokoino/CKK0004/raw/master/download.png)
 
 # Technical support
-- Email: jex-spt@outlook.com
+- Email: cokoino@outlook.com
 
 # Advantages of this package：
 
